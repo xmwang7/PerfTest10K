@@ -1,6 +1,6 @@
 moduleIdentifier:
   moduleName: Mpi Module
-  moduleVersion: 0.0.2
+  moduleVersion: 0.0.3
 type: Mpi
 description: Mpi module for demo.
 metadata:
