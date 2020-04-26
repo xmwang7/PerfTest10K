@@ -1,7 +1,7 @@
 moduleIdentifier:
   namespace: example.com/modules
   moduleName: Basic Module
-  moduleVersion: 0.0.3
+  moduleVersion: 0.0.4
 description: |
   Basic module for demo.
   No `type` specified in spec and will defaults to 'Basic'.
