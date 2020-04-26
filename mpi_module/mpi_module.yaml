@@ -1,5 +1,5 @@
 moduleIdentifier:
-  namespace: microsoft.com/office
+  namespace: example.com/modules
   moduleName: Mpi Module
   moduleVersion: 2.2.0
 type: Mpi
