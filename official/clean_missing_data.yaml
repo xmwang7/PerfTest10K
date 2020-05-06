@@ -1,7 +1,7 @@
-moduleIdentifier:
+amlModuleIdentifier:
   namespace: zhizhu.com/test
   moduleName: New Clean Missing Data
-  moduleVersion: 0.0.116.1
+  moduleVersion: 0.0.1
 isDeterministic: true
 category: Data Transformation
 description: Specifies how to handle the values missing from a dataset.
