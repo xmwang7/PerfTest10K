@@ -1,7 +1,7 @@
-moduleIdentifier:
+amlModuleIdentifier:
   namespace: microsoft.com/office
   moduleName: Mpi Module
-  moduleVersion: 2.2.0
+  moduleVersion: 0.0.1
 type: Mpi
 description: Mpi module for demo.
 metadata:
