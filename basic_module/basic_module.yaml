@@ -1,7 +1,7 @@
 amlModuleIdentifier:
   namespace: example.com/modules
   moduleName: Basic Module
-  moduleVersion: 0.1.0
+  moduleVersion: 0.1.1
 description: |
   Basic module for demo.
   No `type` specified in spec and will defaults to 'Basic'.
