@@ -1,6 +1,6 @@
 amlModuleIdentifier:
   namespace: microsoft.com/newmodules
-  moduleName: Basic Module~!@#$%^&*()_+
+  moduleName: Basic Module`-={}[]|\:;"'<>,.?/
   moduleVersion: 0.0.1
 description: |
   Basic module for demo.
