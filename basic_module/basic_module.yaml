@@ -1,7 +1,7 @@
 amlModuleIdentifier:
-  namespace: example.com/modules
-  moduleName: Basic Module
-  moduleVersion: 0.1.8
+  namespace: example.com/modules/xmwang
+  moduleName: Basic Module 2
+  moduleVersion: 0.0.1
 description: |
   Basic module for demo.
   No `type` specified in spec and will defaults to 'Basic'.
