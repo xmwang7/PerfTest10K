@@ -1,7 +1,7 @@
 amlModuleIdentifier:
-  namespace: microsoft.com/office
-  moduleName: Mpi Module
-  moduleVersion: 0.0.3
+  namespace: example.com/modules/xmwang
+  moduleName: Mpi Module 2
+  moduleVersion: 0.0.1
 jobType: Mpi
 description: Mpi module for demo.
 metadata:
