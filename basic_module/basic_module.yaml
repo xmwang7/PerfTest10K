@@ -1,6 +1,6 @@
 amlModuleIdentifier:
-  namespace: example.com/modules
-  moduleName: Basic Module 3
+  namespace: example.com/newmodules
+  moduleName: Basic Module 4
   moduleVersion: 0.0.1
 description: |
   Basic module for demo.
