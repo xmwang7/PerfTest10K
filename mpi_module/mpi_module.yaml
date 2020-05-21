@@ -1,6 +1,6 @@
 amlModuleIdentifier:
   namespace: microsoft.com/newmodules
-  moduleName: Mpi Module
+  moduleName: Mpi Module 1
   moduleVersion: 0.0.1
 jobType: Mpi
 description: Mpi module for demo.
