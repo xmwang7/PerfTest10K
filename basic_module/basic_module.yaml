@@ -1,6 +1,6 @@
 amlModuleIdentifier:
   namespace: zzzzzzzzz
-  moduleName: Basic Module
+  moduleName: Basic Module With Permission
   moduleVersion: 0.0.1
 description: |
   Basic module for demo.
