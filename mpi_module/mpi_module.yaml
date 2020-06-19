@@ -1,6 +1,6 @@
 amlModuleIdentifier:
   namespace: microsoft.com/newmodules
-  moduleName: Mpi Module 4
+  moduleName: Mpi Module Test For ContinuationToken
   moduleVersion: 0.0.1
 jobType: Mpi
 description: Mpi module for demo.
